@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203354681236",
+    "project_id": "petbook-7d4e5",
+    "storage_bucket": "petbook-7d4e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203354681236:android:c5d72ab70effb6de37e981",
+        "android_client_info": {
+          "package_name": "com.example.petbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203354681236-5gtnos8b8mmejqtq98j61i4eva6h0n66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGAONJWd67TXN5qhQ_NxIXfp7Eeinaur0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203354681236-5gtnos8b8mmejqtq98j61i4eva6h0n66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
