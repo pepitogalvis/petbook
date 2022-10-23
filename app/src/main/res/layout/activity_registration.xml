@@ -89,6 +89,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
         android:background="@drawable/edit"
+        android:drawableStart="@drawable/password"
         android:hint="Contraseña..."
         android:inputType="textPassword"
         android:padding="8dp" />
@@ -101,7 +102,7 @@
     android:layout_marginLeft="30dp"
     android:layout_marginTop="30dp"
     android:layout_marginRight="30dp"
-    android:background="@drawable/buttons"
+    android:background="@drawable/buttonss"
     android:padding="4dp"
     android:text="Crear Cuenta"
     android:textAllCaps="false"
